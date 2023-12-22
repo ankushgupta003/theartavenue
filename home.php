@@ -119,6 +119,11 @@ include 'components/wishlist_cart.php';
       <h3>Bookmarks</h3>
    </a>
 
+   <a href="category.php?category=digital" class="swiper-slide slide">
+      <img src="./images/digital.png" alt="">
+      <h3>Digital Art</h3>
+   </a>
+
    <a href="category.php?category=Polaroid" class="swiper-slide slide">
       <img src="./images/polaroid.png" alt="">
       <h3>Polaroids</h3>
