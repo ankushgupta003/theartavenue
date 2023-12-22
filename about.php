@@ -55,34 +55,6 @@ if(isset($_SESSION['user_id'])){
    
    <h1 class="heading">About Us</h1>
 
-   <div class="swiper reviews-slider">
-
-   <div class="swiper-wrapper">
-
-      <div class="swiper-slide slide">
-         <img src="./images/ankush.jpg" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
-         <h3>Ankush Gupta</h3>
-      </div>
-
-      <div class="swiper-slide slide">
-         <img src="./images/vinayaka.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
-         <h3>Vinayaka Prasad</h3>
-      </div>
-
-      <div class="swiper-slide slide">
-         <img src="./images/shubhan.jpg" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
-         <h3>Shubhan Tuteja</h3>
-      </div>
-    
-     </div>
-
-   
-
-   </div>
-
 </section>
 
 

@@ -31,8 +31,6 @@ if(isset($_SESSION['user_id'])){
 <?php include 'components/user_header.php'; ?>
 <h1 class="heading">Customize by category</h1>
   <div class=container>
-    <div class=row>
-      <div class=column>
     <div class=card>
       <div class=image>
         <a href="spill_art.php">
@@ -44,8 +42,6 @@ if(isset($_SESSION['user_id'])){
         <p>DIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
       </div>
     </div>
-      </div>
-      <div class=column>
     <div class=card>
       <div class=image>
       <a href="bookmark.php">
@@ -57,8 +53,6 @@ if(isset($_SESSION['user_id'])){
         <p>DIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
       </div>
     </div>
-      </div>
-      <div class=column>
     <div class=card>
       <div class=image>
       <a href="digital_art.php">
@@ -69,11 +63,7 @@ if(isset($_SESSION['user_id'])){
         <h3>DIGITAL ART</h3>
         <p>DIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
       </div>
-    </div>
-      </div>
-    </div>
-    <div class=row>
-      <div class=column>
+</div>
     <div class=card>
       <div class=image>
       <a href="pencil_portrait.php">
@@ -84,9 +74,7 @@ if(isset($_SESSION['user_id'])){
         <h3>PENCIL PORTRAIT</h3>
         <p>DIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
       </div>
-    </div>
-      </div>
-      <div class=column>
+</div>
     <div class=card>
       <div class=image>
       <a href="vintage_frame.php">
@@ -98,8 +86,6 @@ if(isset($_SESSION['user_id'])){
         <p>DIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
       </div>
     </div>
-      </div>
-      <div class=column>
     <div class=card>
       <div class=image>
       <a href="cards.php">
@@ -112,8 +98,6 @@ if(isset($_SESSION['user_id'])){
       </div>
     </div>
       </div>
-</div>
-</div>
 
 
 
