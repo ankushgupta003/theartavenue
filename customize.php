@@ -39,7 +39,8 @@ if(isset($_SESSION['user_id'])){
       </div>
       <div class=content>
         <h3>SPILL ART</h3>
-        <p>DIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
+        <h3>By AnkushArts._</h3>
+        <p>Imagine creating a masterpiece with just a splash of paint you feel like!You can go big or go small, as we offer custom sizes to suit your every need. Our A4 size is the perfect start to your art journey. Plus, every painting is carefully framed and packed with a whole lot of love!</p>
       </div>
     </div>
     <div class=card>

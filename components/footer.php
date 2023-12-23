@@ -21,7 +21,6 @@
       <div class="box">
          <h3>contact us</h3>
          <a href="mailto:theartavenue023@gmail.com"><i class="fas fa-envelope"></i> theartavenue023@gmail.com</a>
-         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> Delhi india - 400104 </a>
       </div>
 
       <div class="box">
