@@ -48,7 +48,6 @@ include 'components/wishlist_cart.php';
          <a href="category.php?category=Sketch"><img src="./uploaded_img/Ganesh1.jpg" alt=""></a> 
          </div>
          <div class="content">
-            <span>upto 50% off</span>
             <h3>latest Sketches</h3>
             <a href="category.php?category=Sketch" class="btn">shop now</a>
          </div>
@@ -56,10 +55,9 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="./uploaded_img/photo1700300959.jpeg" alt="Anime Bookmarks">
+         <a href="category.php?category=bookmark"><img src="./uploaded_img/photo1700300959.jpeg" alt="Anime Bookmarks">
          </div>
          <div class="content">
-            <span>upto 20% off</span>
             <h3>latest Bookmarks</h3>
             <a href="category.php?category=Bookmark" class="btn">shop now</a>
          </div>
@@ -67,10 +65,9 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-3.png" alt="">
+         <a href="category.php?category=poloroid"><img src="./uploaded_img/asd.jpg" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
             <h3>latest Poloroids</h3>
             <a href="category.php?category=Poloroid" class="btn">shop now</a>
          </div>

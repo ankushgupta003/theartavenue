@@ -37,7 +37,7 @@ if(isset($_SESSION['user_id'])){
         <img src="./project images/posters/cards.png">
       </div>
       <div class="content">
-          
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfGbUJTfE3TFucoeGIYXI40jgfm5MgYqzNXgKxWrAkmlb9UEg/viewform?embedded=true" width="640" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
 
    </div>
