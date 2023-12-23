@@ -71,8 +71,8 @@ include 'components/wishlist_cart.php';
          </div>
          <div class="content">
             <span>upto 50% off</span>
-            <h3>latest Polaroids</h3>
-            <a href="category.php?category=poloroid" class="btn">shop now</a>
+            <h3>latest Poloroids</h3>
+            <a href="category.php?category=Poloroid" class="btn">shop now</a>
          </div>
       </div>
 
@@ -125,7 +125,7 @@ include 'components/wishlist_cart.php';
    </a>
 
    <a href="category.php?category=Poloroid" class="swiper-slide slide">
-      <img src="./images/polaroid.png" alt="">
+      <img src="./images/Poloroid.png" alt="">
       <h3>Poloroids</h3>
    </a>
 
